@@ -1,0 +1,57 @@
+body.index{
+	background-color: cyan;
+}
+#lamp{
+	width: 20%;
+	float: right;
+}
+h1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 400px;
+	margin: 0px auto;
+}
+#h2{
+	font-weight: bold;
+	background-color: yellow;
+	width: 250px;
+}
+ul{
+	list-style-type: square;
+}
+body.brownbox{
+	background-color: peru;
+}
+#imgscheda{
+	margin: 15px;
+	width: 25%;
+}
+#imgconsole{
+	margin: 15px;
+	width: 25%;
+}
+#imggameboy{
+	margin: 15px;
+	width: 25%;
+}
+.backindex{
+	background-color: red;
+	padding: 10px;
+	margin: 15px;
+}
+body.laser{
+	background-color: crimson;
+}
+#imgmilitary{
+	width: 35%;
+}
+#imgkindlaser{
+	width: 35%;
+}
+body.internet{
+	background-color: limegreen;
+}
+#imgwww{
+	width: 35%;
+}
