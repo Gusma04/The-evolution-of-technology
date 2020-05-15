@@ -1,5 +1,5 @@
 body.index{
-	background-color: cyan;
+	background-color: white;
 }
 #lamp{
 	width: 20%;
@@ -21,7 +21,7 @@ ul{
 	list-style-type: square;
 }
 body.brownbox{
-	background-color: peru;
+	background-color: white;
 }
 #imgscheda{
 	margin: 15px;
@@ -36,7 +36,7 @@ body.brownbox{
 	width: 25%;
 }
 .backindex{
-	background-color: red;
+	background-color: white;
 	padding: 10px;
 	margin: 15px;
 }
@@ -50,7 +50,7 @@ body.laser{
 	width: 35%;
 }
 body.internet{
-	background-color: limegreen;
+	background-color: white;
 }
 #imgwww{
 	width: 35%;
